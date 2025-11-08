@@ -1,0 +1,14 @@
+{
+  "description": "Películas VODS 1080P Propiedad de BFLIX TEAM",
+  "author": "Isaxd183",
+  "homepage": "http://144.217.70.79/VODS-M/1080P/",
+  "title": "Bflix 144.217.70.79/VODS-M/1080P",
+  "synopsis": "Acceso directo a películas VODS en 1080P.",
+  "version": "1.0",
+  "file": "main.js",
+  "m7Version": "7.0.0",
+  "type": "ecmascript",
+  "id": "com.bflix.vods1080p",
+  "icon": "logo.png",
+  "category": "video"
+}
